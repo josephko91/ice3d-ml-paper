@@ -1,6 +1,7 @@
 # User-added (Joe Ko)
 **/lightning_logs/
 **/skl-models/
+**/figs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
