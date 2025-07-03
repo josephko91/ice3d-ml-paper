@@ -12,8 +12,8 @@ Inference tested with following compute:
 - MacBook Pro (Apple Silicon), macOS Sonoma 14.5, Darwin 23.5.0 (arm64), CPU-only
 
 # Description of contents
-`data`: Contains python modules for pytorch lightning datamodules and torch datasets 
-`models`: Contains python modules for torch models
-`train-skl.ipynb`: Code to train scikit-learn models from the paper 
-`train-torch.ipynb`: Code to train torch models from the paper
-`eval-reproduce-results.ipynb`: Code to run models in inference on test data and to reproduce figures from paper
+`data`: Contains python modules for pytorch lightning datamodules and torch datasets <br>
+`models`: Contains python modules for torch models <br>
+`train-skl.ipynb`: Code to train scikit-learn models from the paper <br>
+`train-torch.ipynb`: Code to train torch models from the paper <br>
+`eval-reproduce-results.ipynb`: Code to run models in inference on test data and to reproduce figures from paper <br>
